@@ -1,0 +1,4 @@
+server/.ruby_gemset
+server/.ruby_version
+*.swp
+*node_modules*
